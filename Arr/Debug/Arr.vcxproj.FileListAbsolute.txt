@@ -1,0 +1,6 @@
+C:\Users\ZZZ\Desktop\Arr\Arr\Debug\Arr.vcxprojAssemblyReference.cache
+C:\Users\ZZZ\Desktop\Arr\Arr\Debug\Arr.MyForm.resources
+C:\Users\ZZZ\Desktop\Arr\Arr\Debug\Arr.vcxproj.GenerateResource.cache
+C:\Users\ZZZ\Desktop\Курсовая работа\Arr\Arr\Debug\Arr.vcxprojAssemblyReference.cache
+C:\Users\ZZZ\Desktop\Курсовая работа\Arr\Arr\Debug\Arr.MyForm.resources
+C:\Users\ZZZ\Desktop\Курсовая работа\Arr\Arr\Debug\Arr.vcxproj.GenerateResource.cache
